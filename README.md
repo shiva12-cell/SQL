@@ -1,5 +1,6 @@
 # SQL Project & Reference Guide
-## Covering Specific pattern useful for Data Analyst
+### Covering Specific pattern useful for Data Analyst from HackerRank and LeetCode and DataLemur 
+### Here are basic yet imp concepts must know for every SQL Aspirant.
 
 ##  Database Schema
 
